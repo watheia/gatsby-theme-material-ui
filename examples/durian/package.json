@@ -1,0 +1,19 @@
+{
+  "name": "durian",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "gatsby": "latest",
+    "gatsby-theme-material-ui": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "latest",
+    "redux": "latest"
+  },
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  }
+}

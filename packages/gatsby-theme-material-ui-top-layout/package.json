@@ -12,7 +12,7 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "gatsby-plugin-react-helmet": "^3.1.2"
+    "gatsby-plugin-react-helmet": "latest"
   },
   "peerDependencies": {
     "@material-ui/core": ">=4.0.0",

@@ -18,16 +18,16 @@
   "main": "index.js",
   "scripts": {},
   "dependencies": {
-    "nprogress": "^0.2.0"
+    "nprogress": "latest"
   },
   "peerDependencies": {
-    "gatsby-theme-material-ui": "^1.0.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "gatsby-theme-material-ui": ">=1.0.0",
+    "react": ">=16.8.6",
+    "react-dom": ">=16.8.6"
   },
   "devDependencies": {
-    "gatsby-theme-material-ui": "^1.0.13",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "gatsby-theme-material-ui": "latest",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }

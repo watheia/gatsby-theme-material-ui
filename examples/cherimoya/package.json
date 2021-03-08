@@ -1,11 +1,11 @@
 {
-  "name": "example-simple",
-  "version": "1.0.30",
+  "name": "cherimoya",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "4.11.0",
-    "gatsby": "2.24.7",
-    "gatsby-theme-material-ui": "^1.0.13",
+    "@material-ui/core": "latest",
+    "gatsby": "latest",
+    "gatsby-theme-material-ui": "latest",
     "react": "latest",
     "react-dom": "latest"
   },
