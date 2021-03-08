@@ -18,7 +18,7 @@
     "build": "rimraf lib && tsc",
     "build:watch": "rimraf lib && tsc -w",
     "test": "jest",
-    "prepare": "npm run build"
+    "prepare": "yarn build"
   },
   "peerDependencies": {
     "@material-ui/core": ">=4.0.0",
