@@ -1,0 +1,3 @@
+[submodule "www"]
+	path = www
+	url = git@gitlab.com:watheia/elite-avocado.git
